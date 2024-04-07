@@ -1,11 +1,12 @@
 <div id="header" align="center">
   <p>Привет 👋</p>
-  <img src="https://w7.pngwing.com/pngs/247/545/png-transparent-github-computer-icons-repository-github-mammal-cat-like-mammal-carnivoran.png"/>
+  <img src="111.jpeg" width = 125/>
   <p>Меня зовут Егор и это мой git</p>
   <p>В настоящее время я заканчиваю учебу в ВУЗе и активно учусь Аналитике Данных</p>
 </div>
 
 <div id="badges" align="center">
+  <p>Вот ссылки на меня</p>
   <a href="https://t.me/patrik1352">
     <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="Telegram"/>
   </a>
